@@ -20,7 +20,6 @@ var levelOrder = function (root) {
         if (!root[0]) return;
         level = root[1];
         if (ans.length !== level) {
-            // console.log("temp => " , temp)
             ans.push(temp);
             temp = [];
             temp.push(root[0].val);
@@ -28,7 +27,6 @@ var levelOrder = function (root) {
             temp.push(root[0].val);
         }
 
-        // ans.push(root[0].val)
         stack.push([root[0].left, root[1] + 1]);
         stack.push([root[0].right, root[1] + 1]);
         traverse(stack.shift());
