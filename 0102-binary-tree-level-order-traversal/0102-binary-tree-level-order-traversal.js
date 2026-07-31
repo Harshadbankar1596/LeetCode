@@ -11,29 +11,16 @@
  * @return {number[][]}
  */
 var levelOrder = function (root) {
-    if (!root) return []
-    let ans = [];
-    let temp = [];
-    let level = 0;
-    let stack = [[root, level]];
-    function traverse(root) {
-        if (!root[0]) return;
-        level = root[1];
-        if (ans.length !== level) {
-            ans.push(temp);
-            temp = [];
-            temp.push(root[0].val);
-        } else {
-            temp.push(root[0].val);
-        }
-
-        stack.push([root[0].left, root[1] + 1]);
-        stack.push([root[0].right, root[1] + 1]);
-        traverse(stack.shift());
-        traverse(stack.shift());
+    if(!root) return []
+    let ans = []
+    function traverse(root, level) {
+        if (!root) return;
+        if (!ans[level]) ans[level] = [];
+        ans[level].push(root.val)
+        traverse(root.left , level+1)
+        traverse(root.right , level+1)
     }
 
-    traverse(stack.shift());
-    ans.push(temp);
-    return ans;
+    traverse(root, 0)
+    return ans
 };
