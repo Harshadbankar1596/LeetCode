@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harshadbankar1596/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0877-stone-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1816-truncate-sentence](https://github.com/Harshadbankar1596/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 ## Sorting
@@ -82,4 +83,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
