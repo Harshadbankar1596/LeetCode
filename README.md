@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harshadbankar1596/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0877-stone-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -90,9 +91,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0877-stone-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
