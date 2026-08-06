@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/Harshadbankar1596/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -53,12 +55,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/Harshadbankar1596/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
