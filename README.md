@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0237-delete-node-in-a-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
