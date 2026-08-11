@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1816-truncate-sentence](https://github.com/Harshadbankar1596/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harshadbankar1596/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0912-sort-an-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Harshadbankar1596/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
