@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Harshadbankar1596/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0164-maximum-gap](https://github.com/Harshadbankar1596/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshadbankar1596/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0260-single-number-iii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0260-single-number-iii/) | Medium |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Harshadbankar1596/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3731-find-missing-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Harshadbankar1596/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshadbankar1596/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
