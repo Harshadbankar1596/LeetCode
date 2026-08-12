@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harshadbankar1596/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0877-stone-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1816-truncate-sentence](https://github.com/Harshadbankar1596/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Harshadbankar1596/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
