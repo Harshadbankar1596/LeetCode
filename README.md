@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-matrix-diagonal-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1816-truncate-sentence](https://github.com/Harshadbankar1596/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshadbankar1596/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshadbankar1596/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Divide and Conquer
@@ -236,4 +238,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshadbankar1596/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
