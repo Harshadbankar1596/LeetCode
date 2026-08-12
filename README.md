@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Harshadbankar1596/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Harshadbankar1596/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshadbankar1596/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Harshadbankar1596/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -99,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Harshadbankar1596/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshadbankar1596/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -202,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Harshadbankar1596/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Graph Theory
