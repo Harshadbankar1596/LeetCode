@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Harshadbankar1596/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Harshadbankar1596/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -265,4 +268,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshadbankar1596/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshadbankar1596/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
