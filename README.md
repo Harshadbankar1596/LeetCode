@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harshadbankar1596/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0912-sort-an-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Harshadbankar1596/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Harshadbankar1596/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Harshadbankar1596/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Harshadbankar1596/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshadbankar1596/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Hash Table
@@ -289,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Harshadbankar1596/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Harshadbankar1596/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
