@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Harshadbankar1596/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshadbankar1596/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshadbankar1596/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Harshadbankar1596/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Harshadbankar1596/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshadbankar1596/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
