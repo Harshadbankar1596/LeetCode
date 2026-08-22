@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Harshadbankar1596/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## String
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Harshadbankar1596/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshadbankar1596/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -119,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Harshadbankar1596/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
