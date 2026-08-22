@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [3099-harshad-number](https://github.com/Harshadbankar1596/LeetCode/tree/main/3099-harshad-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshadbankar1596/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
