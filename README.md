@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/Harshadbankar1596/LeetCode/tree/main/0071-simplify-path/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/Harshadbankar1596/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [1816-truncate-sentence](https://github.com/Harshadbankar1596/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1927-sum-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshadbankar1596/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Harshadbankar1596/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/Harshadbankar1596/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Harshadbankar1596/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshadbankar1596/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Harshadbankar1596/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -317,4 +320,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Harshadbankar1596/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 <!---LeetCode Topics End-->
