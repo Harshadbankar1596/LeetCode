@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/Harshadbankar1596/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Harshadbankar1596/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/Harshadbankar1596/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshadbankar1596/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/Harshadbankar1596/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,4 +328,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Harshadbankar1596/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/Harshadbankar1596/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Harshadbankar1596/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 <!---LeetCode Topics End-->
