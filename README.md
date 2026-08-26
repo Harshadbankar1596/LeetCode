@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0535-encode-and-decode-tinyurl](https://github.com/Harshadbankar1596/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [1816-truncate-sentence](https://github.com/Harshadbankar1596/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1927-sum-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/1927-sum-game/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshadbankar1596/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshadbankar1596/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshadbankar1596/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshadbankar1596/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshadbankar1596/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Binary Search Tree
