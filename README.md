@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Harshadbankar1596/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Harshadbankar1596/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/Harshadbankar1596/LeetCode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshadbankar1596/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Harshadbankar1596/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Harshadbankar1596/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/Harshadbankar1596/LeetCode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshadbankar1596/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
