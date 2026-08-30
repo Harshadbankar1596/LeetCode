@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Harshadbankar1596/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/Harshadbankar1596/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Harshadbankar1596/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1816-truncate-sentence](https://github.com/Harshadbankar1596/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Harshadbankar1596/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/Harshadbankar1596/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Harshadbankar1596/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
