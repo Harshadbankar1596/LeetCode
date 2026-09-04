@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshadbankar1596/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,4 +370,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Harshadbankar1596/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
