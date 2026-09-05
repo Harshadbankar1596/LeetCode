@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0877-stone-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Harshadbankar1596/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1927-sum-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [3099-harshad-number](https://github.com/Harshadbankar1596/LeetCode/tree/main/3099-harshad-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Harshadbankar1596/LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
