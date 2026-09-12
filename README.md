@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/Harshadbankar1596/LeetCode/tree/main/0071-simplify-path/) | Medium |
+| [0412-fizz-buzz](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0412-fizz-buzz/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/Harshadbankar1596/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [1816-truncate-sentence](https://github.com/Harshadbankar1596/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1927-sum-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/1927-sum-game/) | Medium |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Harshadbankar1596/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0412-fizz-buzz](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0412-fizz-buzz/) | Easy |
 | [0877-stone-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Harshadbankar1596/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Design
