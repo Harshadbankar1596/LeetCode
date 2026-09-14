@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0039-combination-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Harshadbankar1596/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0055-jump-game/) | Medium |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0078-subsets/) | Medium |
