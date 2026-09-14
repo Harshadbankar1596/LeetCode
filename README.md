@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/Harshadbankar1596/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0189-rotate-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshadbankar1596/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0216-combination-sum-iii/) | Medium |
 | [0260-single-number-iii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Harshadbankar1596/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0216-combination-sum-iii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
