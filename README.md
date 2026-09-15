@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Harshadbankar1596/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0412-fizz-buzz](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0412-fizz-buzz/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0445-add-two-numbers-ii/) | Medium |
 | [0877-stone-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Harshadbankar1596/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0445-add-two-numbers-ii/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Harshadbankar1596/LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/Harshadbankar1596/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0445-add-two-numbers-ii/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
