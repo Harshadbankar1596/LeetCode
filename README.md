@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0445-add-two-numbers-ii/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Harshadbankar1596/LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Graph Theory
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/Harshadbankar1596/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0445-add-two-numbers-ii/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -411,9 +413,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0206-reverse-linked-list/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
