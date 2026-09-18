@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Harshadbankar1596/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1367-linked-list-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/1367-linked-list-in-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Harshadbankar1596/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1367-linked-list-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/1367-linked-list-in-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Harshadbankar1596/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1367-linked-list-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/1367-linked-list-in-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshadbankar1596/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -312,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0445-add-two-numbers-ii/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1367-linked-list-in-binary-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/1367-linked-list-in-binary-tree/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Harshadbankar1596/LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
