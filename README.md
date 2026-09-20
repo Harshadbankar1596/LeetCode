@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshadbankar1596/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshadbankar1596/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
