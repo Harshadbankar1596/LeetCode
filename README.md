@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Harshadbankar1596/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Harshadbankar1596/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/Harshadbankar1596/LeetCode/tree/main/0071-simplify-path/) | Medium |
+| [0079-word-search](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0079-word-search/) | Medium |
 | [0412-fizz-buzz](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0412-fizz-buzz/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/Harshadbankar1596/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [1816-truncate-sentence](https://github.com/Harshadbankar1596/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Harshadbankar1596/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
@@ -342,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Harshadbankar1596/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0079-word-search](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshadbankar1596/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## DP on Trees
@@ -373,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0216-combination-sum-iii/) | Medium |
