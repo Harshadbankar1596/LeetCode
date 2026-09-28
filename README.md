@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0079-word-search/) | Medium |
 | [0412-fizz-buzz](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0412-fizz-buzz/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/Harshadbankar1596/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1816-truncate-sentence](https://github.com/Harshadbankar1596/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1927-sum-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshadbankar1596/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/Harshadbankar1596/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0445-add-two-numbers-ii/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Backtracking
@@ -437,4 +439,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2487-remove-nodes-from-linked-list/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
