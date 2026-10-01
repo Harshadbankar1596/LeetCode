@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Harshadbankar1596/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0079-word-search/) | Medium |
 | [0412-fizz-buzz](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0412-fizz-buzz/) | Easy |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Harshadbankar1596/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0445-add-two-numbers-ii/) | Medium |
@@ -442,5 +444,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
