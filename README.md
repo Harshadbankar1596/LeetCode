@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0022-generate-parentheses/) | Medium |
 | [0071-simplify-path](https://github.com/Harshadbankar1596/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0079-word-search/) | Medium |
 | [0412-fizz-buzz](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0412-fizz-buzz/) | Easy |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0877-stone-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0046-permutations/) | Medium |
@@ -445,5 +448,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0022-generate-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
