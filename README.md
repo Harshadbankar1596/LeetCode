@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0412-fizz-buzz/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/Harshadbankar1596/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/Harshadbankar1596/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1927-sum-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshadbankar1596/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Harshadbankar1596/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Harshadbankar1596/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1768-merge-strings-alternately/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
