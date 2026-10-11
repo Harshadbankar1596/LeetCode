@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/Harshadbankar1596/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/2643-row-with-maximum-ones/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshadbankar1596/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshadbankar1596/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshadbankar1596/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Union-Find
