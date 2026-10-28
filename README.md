@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Harshadbankar1596/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1492-the-kth-factor-of-n](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [1927-sum-game](https://github.com/Harshadbankar1596/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2816-double-a-number-represented-as-a-linked-list/) | Medium |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -456,4 +458,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/0022-generate-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Harshadbankar1596/LeetCode/tree/main/JavaScript/Medium/1492-the-kth-factor-of-n/) | Medium |
 <!---LeetCode Topics End-->
